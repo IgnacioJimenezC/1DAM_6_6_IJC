@@ -1,3 +1,11 @@
+/**
+ * Una pila para almacenar datos de cualquier tipo
+ * @param T el tipo de datos que se acepta en la pila
+ * @property pila
+ * @author Ignacio Jiménez Cerpa
+ */
+
+
 class pila<T>{
     private var pila:MutableList<T> = mutableListOf<T>()
     fun top():T?{
@@ -19,6 +27,11 @@ class pila<T>{
 
 }
 
+/**
+ * Invierte los elementos de una lista de cualquier tipo
+ * @param list<T> Se requiere de la lista que queramos invertir los elementos
+ * @return una lista con los elementos de la lista original con el orden invertido
+ */
 fun <T>reverse(list: List<T>):MutableList<T>{
     /*hacer los for para llenar la pila y llenar la lista inversa*/
     val pila = pila<T>()

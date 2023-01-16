@@ -44,8 +44,6 @@ fun <T>reverse(list: List<T>):MutableList<T>{
     }
     return listaInversa
 }
-
-
 fun main() {
     var numbers = listOf("one", "two", "three", "four")
     var numbersRev = reverse(numbers)

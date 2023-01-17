@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/main.html
+$dokka.location://reverse/#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/reverse.html
+$dokka.location:/pila///PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/index.html
+$dokka.location:/pila/pila/#/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/pila.html
+$dokka.location:/pila/pop/#/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/pop.html
+$dokka.location:/pila/push/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/push.html
+$dokka.location:/pila/toString/#/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/to-string.html
+$dokka.location:/pila/top/#/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/top.html
+$dokka.location:/pila/vacia/#/PointingToDeclaration/-d-o-c-u-m-e-n-t-a-c-i-o-n/[root]/pila/vacia.html
+
+
